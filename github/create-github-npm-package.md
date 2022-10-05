@@ -4,6 +4,9 @@
 - Step 2: Use (install) the package in another project
 - Step 3: Use (install) the package in a GitHub Action workflow
 
+**Links:**<br/>
+https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry
+
 ## Step 1: Create a package hosted on GitHub
 
 1. Create a new private GitHub repository
