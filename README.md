@@ -1,1 +1,1 @@
-# bennet-docs
+## Docs for everything
