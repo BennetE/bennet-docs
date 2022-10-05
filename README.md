@@ -1,2 +1,2 @@
-- GitHub
+- [GitHub](/github)
   - [Create a private GitHub npm package](/github/create-github-npm-package.md)
