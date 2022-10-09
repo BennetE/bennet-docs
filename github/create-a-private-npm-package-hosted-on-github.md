@@ -146,3 +146,5 @@ jobs:
 ```
 
 3. With this workflow, the package will be installed from GitHub Packages
+
+**Important:** GitHub Actions needs read permissions to install private GitHub packages. For more information see step 1 > number 6.
