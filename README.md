@@ -1,4 +1,4 @@
-# (personal)
+# (personal) docs for everything
 
 - [Firebase](/firebase)
   - [Use Firebase project aliases with Firebase CLI (multiple Firebase projects)](/firebase/use-firebase-project-aliases-with-firebase-cli.md)
