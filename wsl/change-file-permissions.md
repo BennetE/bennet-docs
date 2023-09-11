@@ -7,7 +7,7 @@ https://github.com/Microsoft/WSL/issues/81#issuecomment-796798258
 ## Using `wsl.conf`
 (from https://github.com/Microsoft/WSL/issues/81#issuecomment-796798258)
 
-1. Open /etc/wsl.conf with your favourite text editor.
+1. Open `/etc/wsl.conf` with your favourite text editor.
 2. Paste the following into it:
 
 ```toml
